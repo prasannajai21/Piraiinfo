@@ -32,7 +32,7 @@ public class Allpages extends BaseClass {
 	    p.clickbutton(p.getSubject());
 	    passText("How to develop",p.getMsg());
 	    
-	   // p.clickbutton(p.getSubmit());
+	    p.clickbutton(p.getSubmit());
 	    
 	    System.out.println("Application Run Successfully");
 	
